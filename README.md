@@ -6,4 +6,5 @@ tags: []
 
 # pandas-challenge
 Homework 04 - Pandas
+
 Trend descriptions are included in markdown cells within jupyter notebook HeroesOfPymoli.ipynb
